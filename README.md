@@ -73,19 +73,19 @@ That sensor list will then be saved for that model.
 Available pages captured from the radio:
 
 - Page 1: Home / HUD  
-  ![Page 1 HUD](C:\Users\robes\Documents\Codex\2026-06-24\is\outputs\RMpocketHUD\assets\screenshots\p1.bmp)
+  ![Page 1 HUD](assets/screenshots/p1.bmp)
 - Page 3: GPS / Nav  
-  ![Page 3 GPS](C:\Users\robes\Documents\Codex\2026-06-24\is\outputs\RMpocketHUD\assets\screenshots\p3.bmp)
+  ![Page 3 GPS](assets/screenshots/p3.bmp)
 - Page 4: Power  
-  ![Page 4 Power](C:\Users\robes\Documents\Codex\2026-06-24\is\outputs\RMpocketHUD\assets\screenshots\p4.bmp)
+  ![Page 4 Power](assets/screenshots/p4.bmp)
 - Page 5: Signal  
-  ![Page 5 Signal](C:\Users\robes\Documents\Codex\2026-06-24\is\outputs\RMpocketHUD\assets\screenshots\p5.bmp)
+  ![Page 5 Signal](assets/screenshots/p5.bmp)
 - Page 6: Flight Stats  
-  ![Page 6 Stats](C:\Users\robes\Documents\Codex\2026-06-24\is\outputs\RMpocketHUD\assets\screenshots\p6.bmp)
+  ![Page 6 Stats](assets/screenshots/p6.bmp)
 - Page 7: Radar  
-  ![Page 7 Radar](C:\Users\robes\Documents\Codex\2026-06-24\is\outputs\RMpocketHUD\assets\screenshots\p7.bmp)
+  ![Page 7 Radar](assets/screenshots/p7.bmp)
 - Page 9: Find My Quad  
-  ![Page 9 Find My Quad](C:\Users\robes\Documents\Codex\2026-06-24\is\outputs\RMpocketHUD\assets\screenshots\p9.bmp)
+  ![Page 9 Find My Quad](assets/screenshots/p9.bmp)
 
 ## Notes
 
@@ -95,10 +95,12 @@ Available pages captured from the radio:
 
 ## Release Layout
 
-- [TELEM.lua](C:\Users\robes\Documents\Codex\2026-06-24\is\outputs\RMpocketHUD\TELEM.lua): working source file
-- [releases/v0.1.0/SCRIPTS/TELEMETRY/TELEM.lua](C:\Users\robes\Documents\Codex\2026-06-24\is\outputs\RMpocketHUD\releases\v0.1.0\SCRIPTS\TELEMETRY\TELEM.lua): SD-card-ready release file
-- [releases/RMpocketHUD-v0.1.0.zip](C:\Users\robes\Documents\Codex\2026-06-24\is\outputs\RMpocketHUD\releases\RMpocketHUD-v0.1.0.zip): packaged release zip
+- [TELEM.lua](TELEM.lua): working source file
+- [releases/v0.1.0/SCRIPTS/TELEMETRY/TELEM.lua](releases/v0.1.0/SCRIPTS/TELEMETRY/TELEM.lua): SD-card-ready release file
+- [RMpocketHUD-v0.1.0.zip](https://github.com/RLee203/RMpocketHUD/releases/download/v0.1.0/RMpocketHUD-v0.1.0.zip): packaged release zip
 
 ## Version
 
 This repo starts at `v0.1.0`.
+
+
