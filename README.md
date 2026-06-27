@@ -36,7 +36,7 @@ If the `TELEMETRY` folder does not exist, create it.
 
 On the radio:
 
-- Go to `Model Settings` (long press `MDL`)
+- Go to `Model Settings` 
 - Scroll down to `Telemetry`
 - Scroll down to `Screens`
 - Pick any screen slot and change the type to `Script`
@@ -46,7 +46,7 @@ On the radio:
 
 On the home screen:
 
-- long press `PAGE/TELE` (or whichever button opens telemetry screens on the Pocket)
+- press `TELE`
 
 It should load the HUD.
 
