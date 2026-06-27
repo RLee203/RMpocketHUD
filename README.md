@@ -97,9 +97,10 @@ Available pages captured from the radio:
 
 - [TELEM.lua](TELEM.lua): working source file
 - [releases/v0.1.0/SCRIPTS/TELEMETRY/TELEM.lua](releases/v0.1.0/SCRIPTS/TELEMETRY/TELEM.lua): SD-card-ready release file
-- [releases/RMpocketHUD-v0.1.0.zip](releases/RMpocketHUD-v0.1.0.zip): packaged release zip
+- [RMpocketHUD-v0.1.0.zip](https://github.com/RLee203/RMpocketHUD/releases/download/v0.1.0/RMpocketHUD-v0.1.0.zip): packaged release zip
 
 ## Version
 
 This repo starts at `v0.1.0`.
+
 
