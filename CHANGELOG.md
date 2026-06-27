@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.1.1
+
+- Fix `P2` altitude graph behavior
+- Refresh packaged release files for `v0.1.1`
+
 ## v0.1.0
 
 - Initial standalone release of `RMpocketHUD`

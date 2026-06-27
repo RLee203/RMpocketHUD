@@ -2,7 +2,7 @@
 
 `RMpocketHUD` is a telemetry HUD Lua script for the `RadioMaster Pocket` 128x64 monochrome display.
 
-Current release: `v0.1.0`
+Current release: `v0.1.1`
 
 ## Features
 
@@ -96,11 +96,12 @@ Available pages captured from the radio:
 ## Release Layout
 
 - [TELEM.lua](TELEM.lua): working source file
-- [releases/v0.1.0/SCRIPTS/TELEMETRY/TELEM.lua](releases/v0.1.0/SCRIPTS/TELEMETRY/TELEM.lua): SD-card-ready release file
-- [RMpocketHUD-v0.1.0.zip](https://github.com/RLee203/RMpocketHUD/releases/download/v0.1.0/RMpocketHUD-v0.1.0.zip): packaged release zip
+- [releases/v0.1.1/SCRIPTS/TELEMETRY/TELEM.lua](releases/v0.1.1/SCRIPTS/TELEMETRY/TELEM.lua): SD-card-ready release file
+- [RMpocketHUD-v0.1.1.zip](https://github.com/RLee203/RMpocketHUD/releases/download/v0.1.1/RMpocketHUD-v0.1.1.zip): packaged release zip
 
 ## Version
 
 This repo starts at `v0.1.0`.
+
 
 
